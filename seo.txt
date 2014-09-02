@@ -1,0 +1,41 @@
+奇圖給大家看一下
+http://on.fb.me/1tzkHQB (FB不喜誤入)
+
+連勝文他們有監看八卦版啦！大家要小心！
+
+: 官網已經上線12小時了，Google到現在都還找不到連勝文官網，為什麼呢？
+: 這是放在連勝文官網上的robots.txt文字檔，這個文字檔是做什麼用的呢？
+: 簡單來說，就是告訴搜尋引擎，我的網站底下，有哪些東西允許你索引
+: 不允許你索引，只有背索引的內容才會出現在搜尋引擎上面
+: http://taipeihope.tw/robots.txt
+: 這個文字檔的內容是這樣的：
+: User-agent: *
+: Disallow: /
+: Allow: /news
+: Allow: /issue-list
+: Allow: /official-policy
+: Allow: /completed-public-proposal
+: Allow: /proposal
+: Allow: /municipal-advisors
+: Allow: /citizen-groups
+: Allow: /new-proposal
+: Allow: /mg-proposal
+: Allow: /gallery
+: Allow: /album
+: 這一篇有比較詳細的說明：
+: http://seo.palada.com.tw/15.html
+: http://www.botry.com.tw/seo/seo_p5.html
+: 這一篇也有教學
+: 從上面兩篇教學來看，大家應該也都清楚了，這裡面robots的內容是有順序性
+: 的。
+這個robots.txt的定義內容看起來像是要允許搜尋引擎索引他們想要給人家索引
+: 的內容，然後把其他的部分都檔掉。
+: But, 就是這個but，因為這個順序性的關係，所以把/檔掉，接下來的所有Allow
+: 就全部失效了。他繼續不改，到世界末日搜尋引擎都不會有連勝文官方網站。
+: 就算買Adsense廣告也一樣，Google應該會很好奇，為什麼會有網站不讓Google做
+: 索引，卻還要買Adsense？這應該是世界第一奇談吧
+: 有沒有自己叫搜尋引擎不准索引自己的官方網站，然後說是駭客攻擊的八卦？
+: 這跟上次遠通那個自己寫App攻擊自己網站的事有什麼不一樣？
+: 這年頭把事情推給駭客太簡單了，自己尿尿不準怪人家尿斗太小？
+: 連勝文也夠搞笑了，那麼多錢找來的團隊根本來搞笑，或是只能找來搞笑的團隊
+: 或者...這是非常基礎的SEO，難道這是刻意為之？連勝文找個鬼來開藥單嗎？
